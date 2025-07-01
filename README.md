@@ -1,4 +1,4 @@
-# **Payload Hub**
+# **Hosted Payloads**
 
 A curated collection of asset-based payloads for penetration testing and security research. This repository provides a simple way to host files on GitHub Pages to test for vulnerabilities like Cross-Site Scripting (XSS) when a web application allows users to specify asset URLs (e.g., for images, avatars, or stylesheets).
 
@@ -10,8 +10,8 @@ This project is for **educational and authorized security testing purposes only*
 
 1. **Fork this Repository**: Create your own copy of this repository.
 2. **Enable GitHub Pages**: In your forked repository, go to Settings \> Pages. Under the "Build and deployment" section, select main as the branch and / (root) as the folder, then click Save.
-3. **Get Your Payload URL**: GitHub will provide you with a URL (e.g., https://\<your-username\>.github.io/payload-hub/).
-4. **Test the Endpoint**: Use the full URL to a specific payload file (e.g., https://\<your-username\>.github.io/payload-hub/xss.svg) in the URL input field of the application you are testing.
+3. **Get Your Payload URL**: GitHub will provide you with a URL (e.g., https://\<your-username\>.github.io/hosted-payloads/).
+4. **Test the Endpoint**: Use the full URL to a specific payload file (e.g., https://\<your-username\>.github.io/hosted-payloads/xss.svg) in the URL input field of the application you are testing.
 5. **Observe the Result**: If the application is vulnerable to the specific payload type, the embedded script should execute, or the intended behavior will be observed.
 
 ## **Payloads Collection**
