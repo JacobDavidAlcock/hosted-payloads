@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <script>alert('XSS via content sniffing!');</script>
+</body>
+</html>

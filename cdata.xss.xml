@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <data><![CDATA[<script>alert('XSS from XML with CDATA!');</script>]]></data>
+</root>

@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <p>This page contains an image with an onerror XSS payload.</p>
+    <img
+      src="https://invalid-image-url.com/nonexistent.jpg"
+      onerror="alert('XSS from img onerror!');"
+    />
+  </body>
+</html>

